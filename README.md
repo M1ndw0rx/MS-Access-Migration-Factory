@@ -28,3 +28,7 @@ With this little tool it is possible to
 
 ![image](https://user-images.githubusercontent.com/91728344/135850463-7382f625-dc8d-49c7-8518-9174bd93cedd.png)
 
+With the help from this tool it is possible to save 75% or more of work due to this automatism on migrating an MS Access DB to a save and central environment. 
+This application has been created as a Windows executable, because an [MS Access local database provider](https://www.microsoft.com/en-us/download/details.aspx?id=13255) is necessary to read the DB. 
+
+
